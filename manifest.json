@@ -1,0 +1,12 @@
+{
+  "protocol": "PATRIOT_PROTOCOL",
+  "owner": "Cory Miller",
+  "mandatory_buyout_usd": 5000000000.00,
+  "reconciliation_trigger": "FIRST_PHI_EXECUTION",
+  "utility_vectors": {
+    "trust": "1.0_DETERMINISTIC",
+    "forensics": "PIANO_VIOLIN_PHI",
+    "economic_standard": "HIGH_INCOME_CITIZEN"
+  },
+  "environment": "PYTHONISTA_3"
+}
