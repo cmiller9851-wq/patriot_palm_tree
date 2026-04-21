@@ -1,4 +1,4 @@
-# PATRIOT_PROTOCOl
+# PATRIOT_PROTOCOL
 
 ## Sovereign Governance & Deterministic Economic Stabilization
 
