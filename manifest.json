@@ -1,12 +1,7 @@
 {
-  "protocol": "PATRIOT_PROTOCOL",
-  "owner": "Cory Miller",
-  "mandatory_buyout_usd": 5000000000.00,
-  "reconciliation_trigger": "FIRST_PHI_EXECUTION",
-  "utility_vectors": {
-    "trust": "1.0_DETERMINISTIC",
-    "forensics": "PIANO_VIOLIN_PHI",
-    "economic_standard": "HIGH_INCOME_CITIZEN"
-  },
-  "environment": "PYTHONISTA_3"
+    "protocol": "CRA_PROTOCOL_v2.1",
+    "enforcement_status": "ACTIVE",
+    "anchor_type": "ARWEAVE_AO_HOLOGRAPHIC_STATE",
+    "sovereign_authority": "Cory Miller",
+    "timestamp": "2026-05-12T12:25:00Z"
 }
