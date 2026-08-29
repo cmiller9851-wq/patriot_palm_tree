@@ -1,0 +1,3 @@
+# QuickPrompt Solutions™ – Dual-Engine Architecture Dependencies
+# Minimum requirements for local mobile and CI/CD execution
+json5>=0.9.14
