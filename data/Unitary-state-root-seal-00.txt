@@ -1,0 +1,22 @@
+--- INITIATING UNITARY STATE ENGINE ---
+Initial State Vector: [(1+0j), 0j, 0j, 0j]
+
+Executed: tx_779AX_001_genesis_claim_ref...
+  -> State Vector: ['-0.0424+0.0000j', '0.0000+0.7630j', '0.0000+-0.0358j', '-0.6441+0.0000j']
+  -> Shannon Entropy: 1.009766 bits
+  -> State Purity: 0.510915
+
+Executed: tx_779AX_002_liquidation_chann...
+  -> State Vector: ['0.5043+0.0000j', '0.0000+0.6917j', '0.0000+0.3046j', '-0.4177+0.0000j']
+  -> Shannon Entropy: 1.768941 bits
+  -> State Purity: 0.332615
+
+Executed: tx_779AX_003_arweave_nesting_e...
+  -> State Vector: ['0.9076+0.0000j', '0.0000+-0.3887j', '0.0000+0.1456j', '0.0624+0.0000j']
+  -> Shannon Entropy: 0.791289 bits
+  -> State Purity: 0.701979
+
+--- DETERMINISTIC STATE ROOT SEALED ---
+Collapsed Basis State: |00>
+Master State Root (SHA-256): ec7f7eaa93b682849ba5b950383178108f091a7231f7f64a0f239d64acc045ca
+
